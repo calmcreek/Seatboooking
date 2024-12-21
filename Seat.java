@@ -1,4 +1,4 @@
-//package com.lesson.lab.model;
+//package classes; not using a new package,default 
 import java.util.Date;
 
 public class Seat {
